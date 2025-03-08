@@ -25,7 +25,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 2️⃣ Clone this repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/rust-file-crypto.git
+git clone https://github.com/FrancescoGiacinto/lockbox-rs.git
 
 cd rust-file-crypto
 
